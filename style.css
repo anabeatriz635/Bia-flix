@@ -12,15 +12,17 @@ header{
     color: rgb(198, 22, 22, 0.58);
 }
 
+/* código omitido */
+
 section {
-    backgroud: rgb(128, 22, 22, 0.58);
+    background: rgb(198, 22, 22, 0.58);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
 
-chamada texto {
+.chamada-texto {
     margin-right: 5%;
 }
 
