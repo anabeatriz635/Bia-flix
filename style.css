@@ -14,7 +14,7 @@ header{
 
 /* código omitido */
 
-section {
+.chamada{
     background: rgb(198, 22, 22, 0.58);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -32,4 +32,18 @@ h1{
 
 p{
     font-size: 20px;
+}
+img {
+    height:300px
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+.categooria{
+    padding-left: 20px;
+    padding-right: 20px;
 }
